@@ -1,0 +1,1 @@
+# Write-a-C-program-to-check-whether-the-input-number-is-a-Neon-number
